@@ -9,4 +9,6 @@ Azure counterparts to the same platform engineering patterns as [`aws-infrastruc
 | [`event-hubs/`](event-hubs) | Azure Event Hubs (Kafka-compatible) | MSK |
 | [`application-gateway/`](application-gateway) | Application Gateway | Application Load Balancer |
 
+For a full streaming walkthrough, see [`event-hubs/`](event-hubs) (Python producer and consumer, Terraform, diagrams) and the cross-cloud write-up [`msk-vs-azure-event-hubs`](https://github.com/manuka-weeraman-1997/msk-vs-azure-event-hubs): Amazon MSK compared with Azure Event Hubs, with a migration guide and compatibility matrix.
+
 Author: Manuka Weeraman — Platform Engineer
